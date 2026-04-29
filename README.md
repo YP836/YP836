@@ -1,6 +1,12 @@
 
-## 🌟 About Me:<br><br>🌱 Currently working on: Building full-stack projects and strengthening core CS concepts  <br><br>🤝 Looking to collaborate on: Web development projects and open-source contributions  <br><br>🛠️ Looking for help with: DSA, backend architecture, and real-world project ideas  <br><br>📚 Currently learning: React, Node.js, databases, and system design basics  <br><br>💬 Ask me about: C/C++, Python, DSA, and web development  <br><br>⚡ Fun fact: I enjoy solving problems and turning ideas into working applications 🚀
+### 🌟 About Me
 
+- 🌱 Currently working on: Building full-stack projects and strengthening core CS concepts  
+- 🤝 Looking to collaborate on: Web development projects and open-source contributions  
+- 🛠️ Looking for help with: DSA, backend architecture, and real-world project ideas  
+- 📚 Currently learning: React, Node.js, databases, and system design basics  
+- 💬 Ask me about: C/C++, Python, DSA, and web development  
+- ⚡ Fun fact: I enjoy solving problems and turning ideas into working applications 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-pathania-a40578249) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yuvraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajpathania836@gmail.com) 
