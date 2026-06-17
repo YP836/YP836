@@ -48,17 +48,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=YP836\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&v=2)
-
-![](https://streak-stats.demolab.com/?user=YP836\&theme=dark\&hide_border=false\&v=2)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YP836\&theme=dark\&hide_border=false\&layout=compact\&v=2)
+![](https://github-readme-stats.vercel.app/api?username=YP836\&show_icons=true\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=YP836\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836\&theme=dark\&hide_border=false\&layout=compact\&langs_count=8)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YP836\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4\&v=2)
+![](https://github-profile-trophy.vercel.app/?username=YP836\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
