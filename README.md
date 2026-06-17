@@ -67,11 +67,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=YP836\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YP836&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://streak-stats.demolab.com/?user=YP836\&theme=dark\&hide_border=false)
+![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YP836\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=10&count_private=true&hide=html,css)
 
 ---
 
