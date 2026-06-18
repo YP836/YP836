@@ -71,7 +71,7 @@
 
 ![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1)
 
 ---
 
