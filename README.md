@@ -67,9 +67,9 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YP836&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&theme=dark)
 
-![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false&cache_seconds=1800)
+![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800)
 
