@@ -67,7 +67,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&theme=dark)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=YP836&show_icons=true&theme=dark)
 
 ![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false)
 
