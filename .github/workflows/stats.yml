@@ -1,0 +1,28 @@
+name: GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=YP836&show_icons=true&theme=dark
+          path: profile/stats.svg
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/stats.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
