@@ -67,14 +67,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=YP836&theme=dark&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&layout=compact&langs_count=10&hide_border=false" height="180"/>
-</p>
+![GitHub Stats](./profile/stats.svg)
 
 ---
 ## 🏆 GitHub Trophies
