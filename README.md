@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Building full-stack projects and strengthening core CS concepts<br>🕺 I'm looking to collaborate on<br>Web development projects and open-source contributions<br>🤝 I'm looking for help with<br>DSA, backend architecture, and real-world project ideas<br>🌱 I'm currently learning<br>React, Node.js, databases, and system design basics<br>💬 Ask me about<br>C/C++, Python, DSA, and web development<br>⚡ Fun fact<br>I enjoy solving problems and turning ideas into working applications 🚀
+
+🔭 I'm currently working on<br>Building full-stack projects and strengthening core CS concepts<br>
+
+🕺 I'm looking to collaborate on<br>Web development projects and open-source contributions<br>
+
+🤝 I'm looking for help with<br>DSA, backend architecture, and real-world project ideas<br>
+
+🌱 I'm currently learning<br>React, Node.js, databases, and system design basics<br>
+
+💬 Ask me about<br>C/C++, Python, DSA, and web development<br>⚡ Fun fact<br>I enjoy solving problems and turning ideas into working applications 🚀
 
 
 ## 🌐 Socials:
