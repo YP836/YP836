@@ -67,14 +67,13 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=YP836&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&theme=dark&include_all_commits=true)
 
-![](https://streak-stats.demolab.com?user=YP836&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=YP836&theme=dark&hide_border=false)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&theme=dark&hide_border=false&layout=compact&langs_count=10)
 
 ---
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=YP836\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
