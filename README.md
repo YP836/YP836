@@ -1,31 +1,34 @@
-<!-- ================================================== -->
-<!--              YUVRAJ PATHANIA                       -->
-<!--               GITHUB PROFILE                       -->
-<!-- ================================================== -->
+<!-- ===================================================== -->
+<!--             YUVRAJ PATHANIA | GITHUB PROFILE          -->
+<!--                  PREMIUM FUTURISTIC                   -->
+<!-- ===================================================== -->
 
-<!-- HEADER -->
+<!-- ANIMATED HEADER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=220&section=header&text=Yuvraj%20Pathania&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-
-# Hi 👋, I'm Yuvraj Pathania
-
-### 💻 Full Stack Developer | 🤖 AI/ML Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Developer;Building+Real+World+Projects;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:1D4ED8,50:7C3AED,80:2563EB,100:020617&height=240&section=header&text=Yuvraj%20Pathania&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20DEVELOPER&descSize=17&descAlignY=58&descColor=BFDBFE" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YP836&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Yuvraj+Pathania+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80;Exploring+AI+%26+Emerging+Technologies;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YP836&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 
 <a href="https://github.com/YP836">
-<img src="https://img.shields.io/github/followers/YP836?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/YP836?style=for-the-badge&color=2563EB&label=Followers&logo=github" />
 </a>
 
 <a href="https://github.com/YP836?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-purple?style=for-the-badge&logo=github" alt="Repositories" />
+<img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPMENT-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge" />
 
 </div>
 
@@ -35,12 +38,18 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Building full-stack projects and strengthening core CS concepts**
-- 🌱 Currently learning **Web Development, Databases and System Design Basics**
-- 💻 Interested in **Full Stack Development and Software Engineering**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- 🤝 Looking to collaborate with developers on projects that solve real-world problems.
-- 💬 Ask me about **Web Development, Programming and AI/ML**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+about+technology;Learning+%7C+Building+%7C+Improving;Exploring+Full+Stack+%26+AI%2FML" />
+
+</div>
+
+- 🔭 Currently working on full-stack projects and strengthening development skills.
+- 🌱 Exploring web development, databases and system design.
+- 💻 Interested in Full Stack Development and Software Engineering.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🤝 Open to collaboration and working on real-world projects.
+- 💬 Ask me about programming, web development and AI/ML.
 - 📫 Email: **yuvrajpathania836@gmail.com**
 - 📄 Resume: [View My Resume](https://drive.google.com/file/d/1gggFjY5O2Q3zcJpOgPDx4grNxSfwWY_t/view?usp=drivesdk)
 
@@ -79,43 +88,57 @@
 ### 💻 Programming Languages
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py&theme=dark" />
+
 </div>
 
 ### 🎨 Frontend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,figma&theme=dark" />
+
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi&theme=dark" />
+
 </div>
 
 ### 🗄️ Databases
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" />
+
 </div>
 
 ### 🤖 AI and Machine Learning
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,pytorch,keras,opencv&theme=dark" />
+
 </div>
 
 ### 📊 Data Science and Analytics
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matlab&theme=dark" />
+
 </div>
 
 ### ☁️ Cloud, DevOps and Developer Tools
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,kafka,vscode,jupyter&theme=dark" />
+
 </div>
 
 ---
@@ -125,12 +148,12 @@
 ## 🎯 Current Focus
 
 | Area | Focus |
-|---|---|
-| Full Stack Development | Building complete web applications |
-| AI/ML | Exploring machine learning and AI |
-| Databases | Learning database management |
-| System Design | Understanding scalable architectures |
-| Problem Solving | Improving programming fundamentals |
+|:---|:---|
+| 💻 Full Stack Development | Building complete web applications |
+| 🤖 AI/ML | Exploring machine learning and AI |
+| 🗄️ Databases | Learning database management |
+| 🏗️ System Design | Understanding scalable architectures |
+| 🧠 Problem Solving | Improving programming fundamentals |
 
 ---
 
@@ -138,27 +161,40 @@
 
 ## 🤝 Open Source & Collaborative Contributions
 
-I'm actively contributing to collaborative projects and working with different technologies.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Collaborating+%7C+Contributing+%7C+Building;Learning+Through+Real+World+Projects;Growing+Through+Open+Source" />
+
+</div>
 
 ### 🔹 URL Monitoring
 
+<div align="left">
+
 <a href="https://github.com/YP836/URL-MONITORING-Fork-">
-<img src="https://img.shields.io/badge/Project-URL%20Monitoring-blue?style=for-the-badge&logo=github" alt="URL Monitoring Project" />
+<img src="https://img.shields.io/badge/URL%20MONITORING-Collaborative%20Project-2563EB?style=for-the-badge&logo=github" />
 </a>
+
+</div>
 
 - **Technologies:** Python, TypeScript and other project technologies.
 - **Contribution:** Collaborative development, feature implementation and code improvements.
-- **Original Repository:** <a href="https://github.com/yathboss/URL-MONITORING">yathboss/URL-MONITORING</a>
+- **Original Repository:** [yathboss/URL-MONITORING](https://github.com/yathboss/URL-MONITORING)
+- **My Fork:** [YP836/URL-MONITORING-Fork-](https://github.com/YP836/URL-MONITORING-Fork-)
 
 ### 🔹 Legal Lens
 
+<div align="left">
+
 <a href="https://github.com/VarnitAgustya27/LEGAL_LENS">
-<img src="https://img.shields.io/badge/Project-LEGAL%20LENS-purple?style=for-the-badge&logo=github" alt="Legal Lens Project" />
+<img src="https://img.shields.io/badge/LEGAL%20LENS-AI%20Powered%20Project-7C3AED?style=for-the-badge&logo=github" />
 </a>
 
-- **Contribution:** Collaborative development with 24 commits shown in repository contributor statistics.
+</div>
+
+- **Contribution:** 24 commits shown in repository contributor statistics.
 - **Focus:** AI-powered legal metrology compliance and packaged commodity analysis.
-- **Repository:** <a href="https://github.com/VarnitAgustya27/LEGAL_LENS">VarnitAgustya27/LEGAL_LENS</a>
+- **Repository:** [VarnitAgustya27/LEGAL_LENS](https://github.com/VarnitAgustya27/LEGAL_LENS)
 
 ---
 
@@ -169,29 +205,10 @@ I'm actively contributing to collaborative projects and working with different t
 <div align="center">
 
 <a href="https://github.com/YP836?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-ALL%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
-<!-- Add your actual projects below:
-
-### 🔹 Project One
-Description: Explain what your project does.
-Tech Stack: React, Node.js, MongoDB
-Repository: Add your repository link.
-
-### 🔹 Project Two
-Description: Explain what your project does.
-Tech Stack: Python, Machine Learning
-Repository: Add your repository link.
-
-### 🔹 Project Three
-Description: Explain what your project does.
-Tech Stack: TypeScript, JavaScript
-Repository: Add your repository link.
-
--->
 
 ---
 
@@ -207,7 +224,7 @@ Repository: Add your repository link.
 
 <br/><br/>
 
-<img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YP836&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages including Collaborations" />
+<img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YP836&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
 </div>
 
@@ -220,20 +237,32 @@ Repository: Add your repository link.
 <div align="center">
 
 <a href="https://github.com/YP836?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-8250DF?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20REPOSITORIES-8250DF?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION ACTIVITY -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/38bdf8/YP836" alt="GitHub Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YP836/YP836/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -246,31 +275,35 @@ Repository: Add your repository link.
 <div align="center">
 
 <a href="https://leetcode.com/YuvrajP836">
-<img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+<img src="https://img.shields.io/badge/LeetCode-VIEW%20MY%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-<!-- CONTACT -->
+<!-- LET'S CONNECT -->
 
 ## 🤝 Let's Connect and Collaborate!
 
-I'm always interested in meeting developers, learning new technologies and building projects that make a difference.
-
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Always+Open+To+New+Opportunities;Let's+Build+Something+Amazing+Together!;Keep+Learning+%7C+Keep+Building+%F0%9F%9A%80" />
+
+<br/><br/>
+
 <a href="mailto:yuvrajpathania836@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL%20ME-LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my GitHub profile!
+**⭐ Thanks for visiting my GitHub profile!**
 
 **Keep Learning | Keep Building | Keep Growing 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=120&section=footer" width="100%" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:1D4ED8,50:7C3AED,80:2563EB,100:020617&height=160&section=footer&animation=twinkling" />
 
 </div>
