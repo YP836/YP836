@@ -1,50 +1,35 @@
-# 💫 About Me:
+# Hi 👋, I'm Yuvraj Pathania
 
-🔭 I'm currently working on<br>Building full-stack projects and strengthening core CS concepts<br>
+### A budding Typescript developer
 
-🕺 I'm looking to collaborate on<br>Web development projects and open-source contributions<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YP836&label=Profile views&color=0e75b6&style=flat" alt="YP836" /> </p>
 
-🤝 I'm looking for help with<br>DSA, backend architecture, and real-world project ideas<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YP836" alt="YP836" /></a> </p>
 
-🌱 I'm currently learning<br>React, Node.js, databases, and system design basics<br>
+- 🔭 I'm currently working on **Building full-stack projects and strengthening core CS concepts**
 
-💬 Ask me about<br>C/C++, Python, DSA, and web development<br>⚡ Fun fact<br>I enjoy solving problems and turning ideas into working applications 🚀
+- 🌱 I'm currently learning **Web Development , Databases and System Design Basics**
+
+- 🤝 I'm looking for help with **Looking for people to collaborate and build projects which solve real world problems .**
+
+- 📫 How to reach me **yuvrajpathania836@gmail.com**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1gggFjY5O2Q3zcJpOgPDx4grNxSfwWY_t/view?usp=drivesdk](https://drive.google.com/file/d/1gggFjY5O2Q3zcJpOgPDx4grNxSfwWY_t/view?usp=drivesdk)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/YP836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YP836" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuvraj-pathania-a40578249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-pathania-a40578249" height="30" width="40" /></a>
+<a href="https://leetcode.com/YuvrajP836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="YuvrajP836" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YP836&show_icons=true&locale=en&layout=compact" alt="YP836" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&locale=en" alt="YP836" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YP836&" alt="YP836" /></p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![email](https://shields.io)](mailto:yuvrajpathania836@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://shields.io) Cast ![++](https://shields.io) ![CSS3](https://shields.io) ![HTML5](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Windows Terminal](https://shields.io) ![Vercel](https://shields.io) ![AWS](https://shields.io) ![Apache Kafka](https://shields.io) ![Anaconda](https://shields.io) ![Chart.js](https://shields.io) ![Express.js](https://shields.io) ![FastAPI](https://shields.io) ![Flutter](https://shields.io) ![JavaFX](https://shields.io) ![Redis](https://shields.io) ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![Matplotlib](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![PyTorch](https://shields.io) ![scikit-learn](https://shields.io) ![Scipy](https://shields.io) ![TensorFlow](https://shields.io) ![Keras](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
-
-# 🚀 Featured Projects
-
-### 🔗 URL Monitoring
-**TypeScript • Collaborative Project**
-
-A URL monitoring project focused on monitoring website availability and URL status.
-
-**Languages & Technologies:**
-
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Node.js](https://shields.io)
-
-**My contribution:** Contributed to the development and implementation of the project.
-
-[View Repository](https://github.com)
-
----
-
-# 📊 GitHub Stats & Contributions:
-![](https://shion.dev)<br/>
-![](https://demolab.com)<br/>
-
-### 📈 Activity & Contribution Flow:
-![](https://vercel.app)
-
-### 🔝 Top Contributed Repo
-![](https://vercel.app)
-
----
-[![](https://komarev.com)](https://itsvg.in)
