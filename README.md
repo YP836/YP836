@@ -1,4 +1,3 @@
-
 <!-- ================================================== -->
 <!--              YUVRAJ PATHANIA                       -->
 <!--               GITHUB PROFILE                       -->
@@ -149,6 +148,17 @@ I'm actively contributing to collaborative projects and working with different t
 
 - **Technologies:** Python, TypeScript and other project technologies.
 - **Contribution:** Collaborative development, feature implementation and code improvements.
+- **Original Repository:** <a href="https://github.com/yathboss/URL-MONITORING">yathboss/URL-MONITORING</a>
+
+### 🔹 Legal Lens
+
+<a href="https://github.com/VarnitAgustya27/LEGAL_LENS">
+<img src="https://img.shields.io/badge/Project-LEGAL%20LENS-purple?style=for-the-badge&logo=github" alt="Legal Lens Project" />
+</a>
+
+- **Contribution:** Collaborative development with 24 commits shown in repository contributor statistics.
+- **Focus:** AI-powered legal metrology compliance and packaged commodity analysis.
+- **Repository:** <a href="https://github.com/VarnitAgustya27/LEGAL_LENS">VarnitAgustya27/LEGAL_LENS</a>
 
 ---
 
