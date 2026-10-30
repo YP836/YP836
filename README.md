@@ -1,10 +1,10 @@
 
-<!-- ===================================================== -->
-<!--                 YUVRAJ PATHANIA                       -->
-<!--                  GITHUB PROFILE                       -->
-<!-- ===================================================== -->
+<!-- ================================================== -->
+<!--              YUVRAJ PATHANIA                       -->
+<!--               GITHUB PROFILE                       -->
+<!-- ================================================== -->
 
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 
 <div align="center">
 
@@ -18,10 +18,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YP836&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YP836&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 <a href="https://github.com/YP836">
-<img src="https://img.shields.io/github/followers/YP836?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/followers/YP836?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers" />
 </a>
 
 <a href="https://github.com/YP836?tab=repositories">
@@ -104,7 +104,7 @@
 ### 🤖 AI and Machine Learning
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,keras,opencv&theme=dark" />
 </div>
 
 ### 📊 Data Science and Analytics
@@ -113,7 +113,7 @@
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matlab&theme=dark" />
 </div>
 
-### ☁️ Cloud, DevOps and Tools
+### ☁️ Cloud, DevOps and Developer Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,kafka,vscode,jupyter&theme=dark" />
@@ -135,7 +135,24 @@
 
 ---
 
-<!-- PROJECTS -->
+<!-- OPEN SOURCE CONTRIBUTIONS -->
+
+## 🤝 Open Source & Collaborative Contributions
+
+I'm actively contributing to collaborative projects and working with different technologies.
+
+### 🔹 URL Monitoring
+
+<a href="https://github.com/YP836/URL-MONITORING-Fork-">
+<img src="https://img.shields.io/badge/Project-URL%20Monitoring-blue?style=for-the-badge&logo=github" alt="URL Monitoring Project" />
+</a>
+
+- **Technologies:** Python, TypeScript and other project technologies.
+- **Contribution:** Collaborative development, feature implementation and code improvements.
+
+---
+
+<!-- FEATURED PROJECTS -->
 
 ## 🚀 Featured Projects
 
@@ -147,8 +164,7 @@
 
 </div>
 
-<!--
-Add your actual projects here.
+<!-- Add your actual projects below:
 
 ### 🔹 Project One
 Description: Explain what your project does.
@@ -164,6 +180,7 @@ Repository: Add your repository link.
 Description: Explain what your project does.
 Tech Stack: TypeScript, JavaScript
 Repository: Add your repository link.
+
 -->
 
 ---
@@ -174,13 +191,13 @@ Repository: Add your repository link.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YP836&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=YP836&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=YP836&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YP836&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YP836&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages including Collaborations" />
 
 </div>
 
@@ -193,7 +210,7 @@ Repository: Add your repository link.
 <div align="center">
 
 <a href="https://github.com/YP836?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Achievements-8250DF?style=for-the-badge&logo=github" alt="GitHub Achievements" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-8250DF?style=for-the-badge&logo=github" alt="GitHub Repositories" />
 </a>
 
 </div>
@@ -231,8 +248,6 @@ Repository: Add your repository link.
 ## 🤝 Let's Connect and Collaborate!
 
 I'm always interested in meeting developers, learning new technologies and building projects that make a difference.
-
-**Feel free to connect with me!**
 
 <div align="center">
 
